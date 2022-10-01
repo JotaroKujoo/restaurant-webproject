@@ -1,0 +1,9 @@
+body{
+    background:  linear-gradient(#cc9986,#7e4b38,#486355,#414358);
+    background-size: cover;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    color: rgb(127, 123, 123);
+}
