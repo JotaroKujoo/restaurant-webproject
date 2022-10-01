@@ -1,3 +1,4 @@
+
 .parallax-header{
     background: #000;
     background: linear-gradient( 
@@ -38,13 +39,22 @@
     padding: 20px;
 }
 
-#foot{
-    margin-top: -50px;
+.foot{
+    margin-top: -80px;
 }
 
 body{
-    background: linear-gradient( 
-    rgba(0, 0, 0, 0.3),
-    rgba(0, 0, 0, 0.8)
-    )
+    background:linear-gradient(#cc9986,#7e4b38,#486355,#414358);
+}
+a{
+    text-decoration: none;
+    color: rgb(127, 123, 123);
+}
+
+.bordeado{
+    border-radius: 30%;
+}
+
+.medium{
+    background-color: transparent;
 }
