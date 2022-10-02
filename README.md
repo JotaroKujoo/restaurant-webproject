@@ -9,7 +9,7 @@ Seguido de **Parallax** en todo el proyecto.
 
 ##Inspiraciones
 
-He tomado de referencia paginas como la del <a href="https://www.restauranteclosmadrid.es/">"Restaurante Clos Madrir"</a> y el restaurante "El Gaytan"  
+He tomado de referencia paginas como la del <a href="https://www.restauranteclosmadrid.es/">"Restaurante Clos Madrir"</a> y el restaurante <a href="https://chefjavieraranda.com/es/gaytan.html">"El Gaytan"</a>  
 
 
 ##Forma de actuar
